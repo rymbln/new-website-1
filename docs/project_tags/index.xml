@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project_tags on My Digital Garden</title>
-    <link>/project_tags/</link>
+    <link>https://rymbln.github.io/new-website-1/project_tags/</link>
     <description>Recent content in Project_tags on My Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nigalya Ponya ©</copyright>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/project_tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rymbln.github.io/new-website-1/project_tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
-      <link>/project_tags/markdown/</link>
+      <link>https://rymbln.github.io/new-website-1/project_tags/markdown/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/project_tags/markdown/</guid>
+      <guid>https://rymbln.github.io/new-website-1/project_tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>/project_tags/docs/</link>
+      <link>https://rymbln.github.io/new-website-1/project_tags/docs/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project_tags/docs/</guid>
+      <guid>https://rymbln.github.io/new-website-1/project_tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>how-to</title>
-      <link>/project_tags/how-to/</link>
+      <link>https://rymbln.github.io/new-website-1/project_tags/how-to/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project_tags/how-to/</guid>
+      <guid>https://rymbln.github.io/new-website-1/project_tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webapp</title>
-      <link>/project_tags/webapp/</link>
+      <link>https://rymbln.github.io/new-website-1/project_tags/webapp/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project_tags/webapp/</guid>
+      <guid>https://rymbln.github.io/new-website-1/project_tags/webapp/</guid>
       <description></description>
     </item>
     
