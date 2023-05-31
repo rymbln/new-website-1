@@ -36,19 +36,19 @@ publishDir = "docs"
 [menu]
   [[menu.main]]
     name = "Digital Garden"
-    url = "/garden/"
+    url = "garden/"
     weight = 1
   [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "projects/"
     weight = 2
   [[menu.main]]
     name = "Library"
-    url = "/library/"
+    url = "library/"
     weight = 3
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 4
 
 
