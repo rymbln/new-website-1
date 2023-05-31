@@ -23,3 +23,7 @@ summary: "Пример встраиваемых интерактивных ко�
 ## Постер из Piktochart
 
 <div class="piktowrapper-embed" data-uid="ca3d34a3bc9e-my-visual"></div><script>(function(d){var js, id="pikto-embed-js", ref=d.getElementsByTagName("script")[0];if (d.getElementById(id)) { return;}js=d.createElement("script"); js.id=id; js.async=true;js.src="https://create.piktochart.com/assets/embedding/embed.js";ref.parentNode.insertBefore(js, ref);}(document));</script>
+
+## Встраивание дашборда Yandex.DataLens
+
+<iframe src="https://datalens.yandex/tdlfhihtxz32j" width="1024" height="600"></iframe>
