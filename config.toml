@@ -1,10 +1,9 @@
-baseURL = "https://www.example.com"
+baseURL = "https://rymbln.github.io/new-website-1/"
 languageCode = "en-us"
 title = "My Digital Garden"
 theme = "hugo-digital-garden-theme"
 themesdir = "themes"
 copyright = "Nigalya Ponya ©"
-
 publishDir = "docs"
 
 [params]
